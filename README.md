@@ -50,7 +50,8 @@ Gosto de explorar novas tecnologias e sempre estou pensando em novos projetos!
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheus-oli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+</p>
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
