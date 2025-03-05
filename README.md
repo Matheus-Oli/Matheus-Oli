@@ -3,7 +3,7 @@ Me chamo [Matheus Oliveira](https://www.linkedin.com/in/matheus-oliveira-do-nasc
 
 Trabalho no projeto [Hospital Questiona](https://planos.questiona.com.br/), uma plataforma de estudo. Também estou desenvolvendo um [totem de autoatendimento](https://github.com/Adrian-Quindeler/Sistema-de-Autoatendimento-MB) para a cantina da faculdade, visando otimizar o atendimento.
 
-Gosto de explorar novas tecnologias e sempre estou pensando em novos projetos!
+Gosto de explorar novas tecnologias e sempre estou pensando em novos projetos! Caso queira me conhecer melhor [clique aqui!](https://portfolio-nu-wine-12.vercel.app/)
 
 # 🖥️ Tecnologias e Ferramentas:
 ## Linguagens Backend:
