@@ -1,9 +1,7 @@
 # Olá, me chamo Matheus Oliveira!
 Me chamo [Matheus Oliveira](https://www.linkedin.com/in/matheus-oliveira-do-nascimento/), tenho 19 anos, concluí o ensino médio no SESI junto com o curso técnico em Desenvolvimento de Sistemas pelo SENAI-ES. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAESA.
 
-Trabalho no projeto [Hospital Questiona](https://planos.questiona.com.br/), uma plataforma de estudo. Também estou desenvolvendo um [totem de autoatendimento](https://github.com/Adrian-Quindeler/Sistema-de-Autoatendimento-MB) para a cantina da faculdade, visando otimizar o atendimento.
-
-Gosto de explorar novas tecnologias e sempre estou pensando em novos projetos! Caso queira me conhecer melhor [clique aqui!](https://portfolio-nu-wine-12.vercel.app/)
+Trabalho no projeto [Hospital Questiona](https://planos.questiona.com.br/), uma plataforma de estudo. Gosto de explorar novas tecnologias e sempre estou pensando em novos projetos! Caso queira me conhecer melhor [clique aqui!](https://portfolio-nu-wine-12.vercel.app/)
 
 # 🖥️ Tecnologias e Ferramentas:
 ## Linguagens Backend:
