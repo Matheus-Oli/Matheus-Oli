@@ -1,7 +1,7 @@
 # Olá, me chamo Matheus Oliveira!
-Me chamo [Matheus Oliveira](https://www.linkedin.com/in/matheus-oliveira-do-nascimento/), tenho 19 anos, concluí o ensino médio no SESI junto com o curso técnico em Desenvolvimento de Sistemas pelo SENAI-ES. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAESA.
+Me chamo [Matheus Oliveira](https://www.linkedin.com/in/matheus-oliveira-do-nascimento/), tenho 20 anos, concluí o ensino médio no SESI junto com o curso técnico em Desenvolvimento de Sistemas pelo SENAI-ES. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAESA. Já acumulo experiência prática e sólida na área de tecnologia, com foco no desenvolvimento de soluções inovadoras e eficientes.
 
-Trabalho no projeto [Hospital Questiona](https://planos.questiona.com.br/), uma plataforma de estudo. Gosto de explorar novas tecnologias e sempre estou pensando em novos projetos! Caso queira me conhecer melhor [clique aqui!](https://portfolio-nu-wine-12.vercel.app/)
+Atuei por um ano na equipe da VilaInfo, colaborando no projeto [Hospital Questiona](https://planos.questiona.com.br/), uma plataforma destinada a estudos e preparação para concursos, onde contribuí para o desenvolvimento e aprimoramento da aplicação. Durante a graduação, participei do desenvolvimento de um totem de autoatendimento para a cantina da faculdade, projeto que teve como objetivo otimizar o fluxo de atendimento e aprimorar a experiência do usuário. Caso queira me conhecer melhor [clique aqui!]
 
 # 🖥️ Tecnologias e Ferramentas:
 ## Linguagens Backend:
@@ -27,7 +27,6 @@ Trabalho no projeto [Hospital Questiona](https://planos.questiona.com.br/), uma 
 ## Outros:
 [<img title="Visual Studio Code" loading="lazy" height="48px" width="48px" src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com/)
 [<img title="Postman"        loading="lazy" height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>](https://www.postman.com/)
-[<img title="XAMPP"          loading="lazy" height="48px" width="48px" src="https://static-00.iconduck.com/assets.00/xampp-icon-2048x2048-dytdgt4y.png"/>](https://www.apachefriends.org/index.html)
 [<img title="DBeaver"        loading="lazy" height="48px" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>](https://dbeaver.io/)
 
 ## Versionamento:
